@@ -1,2 +1,2 @@
-# BuildingSearchIndex
-Search Index using ASP &amp; React
+# REST API
+Building Rest API using ASP.NET
