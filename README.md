@@ -10,6 +10,7 @@ Simple REST API using ASP.NET CORE
 
 - [Installation](#installation)
 - [Technologies](#technologies)
+- [URL](#url)
 - [Author](#author)
 
 ## Installation
@@ -32,6 +33,10 @@ dotnet watch run
 - C#
 - SQL Server
 - REST API
+
+## url
+
+https://buildingrestapi.azurewebsites.net/
 
 ## author
 
