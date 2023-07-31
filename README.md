@@ -15,7 +15,7 @@ Simple REST API using ASP.NET
 ## Installation
 
 1- Clone the repository:
-git clone https://github.com/Abdalrzakalsouki/UTrack.git
+git clone https://github.com/Abdalrzakalsouki/BuildingRestAPI
 
 2- Navigate to project directory:
 cd BuildingRestAPI
