@@ -36,7 +36,7 @@ dotnet watch run
 
 ## url
 
-https://buildingrestapi.azurewebsites.net/
+https://buildingrestapi.azurewebsites.net
 
 ## author
 
