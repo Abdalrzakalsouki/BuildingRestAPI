@@ -20,10 +20,10 @@ git clone https://github.com/Abdalrzakalsouki/BuildingRestAPI
 2- Navigate to project directory:
 cd BuildingRestAPI
 
-3- Trust the development certificate
+3- Trust the development certificate:
 dotnet dev-certs https --trust
 
-4- Run the app
+4- Run the app:
 dotnet watch run
 
 ## Technologies
