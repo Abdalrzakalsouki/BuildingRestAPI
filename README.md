@@ -4,7 +4,7 @@ Building Search API
 
 ## Project Description
 
-Simple REST API using ASP.NET
+Simple REST API using ASP.NET CORE
 
 ## Table of Contents
 
